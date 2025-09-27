@@ -1,3 +1,7 @@
+# META DATA URL
+# click and open this URL to get to the meta data 👇
+https://www.kaggle.com/datasets/allen-institute-for-ai/CORD-19-research-challenge?select=metadata.csv
+
 # Frameworks Assignment – CORD-19 Dataset
 
 This project analyzes the CORD-19 metadata dataset to explore publication trends in COVID-19 research.
